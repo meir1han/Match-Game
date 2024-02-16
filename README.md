@@ -12,8 +12,7 @@ Match-Game is a classic memory matching game built for iOS using Swift. Test you
 
 ## Gameplay
 
-![Uploading GamePlay.gif…]()
-
+![GamePlay](https://github.com/meir1han/Match-Game/assets/50436764/6ed55502-0ab1-4910-ae4f-e01ec818f148)
 
 ## Getting Started
 
